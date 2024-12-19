@@ -12,7 +12,7 @@
 ## Get in Touch
 
 - 📧 Email me at [fathumanafra5@gmail.com](mailto:fathumanafra5@gmail.com)
-- 📸 Follow me on Instagram: [@fathi nafra](https://www.instagram.com/fathi nafra/)
+- 📸 Follow me on Instagram: [@fathi nafra](https://www.instagram.com/fathinafra/)
 
 
 ---
@@ -30,7 +30,4 @@
 
 ---
 
-## GitHub Contributions
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
 
