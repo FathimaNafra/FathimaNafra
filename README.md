@@ -23,7 +23,7 @@
 
 ## Connect & Collaborate
 
-[![Portfolio]()](your_portfolio_link)
+[![Portfolio](https://fathimanafra.github.io/my-portfolio/)](your_portfolio_link)
 [![LinkedIn](https://www.linkedin.com/in/fathuma-nafra-91499a2a5)](your_linkedin_link)
 
 
