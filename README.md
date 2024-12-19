@@ -24,7 +24,7 @@
 ## Connect & Collaborate
 
 [![Portfolio]()](your_portfolio_link)
-[![LinkedIn](https://www.linkedin.com/in/fathuma-nafra-91499a2a5)](your_linkedin_link)
+[![LinkedIn]()](your_linkedin_link)
 
 
 
