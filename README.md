@@ -1,33 +1,43 @@
-# 👋 Hi there, I'm Fathima Nafra!
+# 👋 Hi, I'm Fathima Nafra 
+
+🎓 **Data Science Student | Tech Enthusiast | Lifelong Learner**  
 
 
-## About Me
+Welcome to my GitHub profile!  
+I’m passionate about turning **data into meaningful insights**, exploring real-world problems through **machine learning**, and continuously learning new technologies.
 
-- 🎂 I'm 22 years old
-- 🌐 I'm interested in **HTML**, **CSS**, **JavaScript**, **C**, **Hacking**, **React** and **Web Development**.
-- 📚 I'm currently reading **Computer Science at University of Kelaniya**.
-- 🏃‍♂️ I'm also a member of **FOSS**, **ISACA**, and **Rotaract**.
-- 💡 I'm looking to collaborate on building websites and web apps.
-  
-## Get in Touch
+---
 
-- 📧 Email me at [fathumanafra5@gmail.com](mailto:fathumanafra5@gmail.com)
-- 📸 Follow me on Instagram: [@fathi nafra](https://www.instagram.com/fathinafra/)
+## 🧠 What I Do  
+- 📊 **Data Analysis & Visualization** using Python, Pandas, Matplotlib, Seaborn  
+- 🤖 **Machine Learning** with scikit-learn & beginner-level Deep Learning  
+- 📝 Building projects that showcase data storytelling and problem-solving  
+- 🧪 Exploring real datasets to sharpen analytical thinking
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, R, SQL  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel  
+- **ML / AI:** scikit-learn, TensorFlow (beginner), PyTorch (beginner)  
+- **Dev Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
+
+---
+
+## 🚀 Current Goals  
+- 📚 Master advanced machine learning concepts  
+- 🏗️ Build end-to-end data science projects (EDA → Modeling → Deployment)  
+- 🤝 Contribute to open-source projects and collaborate with other learners  
+
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](#)  
+- 📧 [Email](#)  
 
 
 ---
 
-
-
-
-
-## Connect & Collaborate
-
-[![Portfolio]()](your_portfolio_link)
-[![LinkedIn]()](your_linkedin_link)
-
-
-
----
+⭐ **Fun Fact:** I believe good data analysis is like storytelling — clear, impactful, and insightful.
 
 
