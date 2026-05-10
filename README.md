@@ -1,43 +1,117 @@
-# 👋 Hi, I'm Fathima Nafra 
+<h1 align="center">Hi 👋, I'm Fathima Nafra</h1>
+<h3 align="center">Data Science Undergraduate | ML & Data Analytics Enthusiast</h3>
 
-🎓 **Data Science Student | Tech Enthusiast | Lifelong Learner**  
-
-
-Welcome to my GitHub profile!  
-I’m passionate about turning **data into meaningful insights**, exploring real-world problems through **machine learning**, and continuously learning new technologies.
-
----
-
-## 🧠 What I Do  
-- 📊 **Data Analysis & Visualization** using Python, Pandas, Matplotlib, Seaborn  
-- 🤖 **Machine Learning** with scikit-learn & beginner-level Deep Learning  
-- 📝 Building projects that showcase data storytelling and problem-solving  
-- 🧪 Exploring real datasets to sharpen analytical thinking
+<p align="center">
+  Passionate about transforming data into meaningful insights and building intelligent solutions through Machine Learning, Data Engineering, and Modern Web Technologies.
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, R, SQL  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel  
-- **ML / AI:** scikit-learn, TensorFlow (beginner), PyTorch (beginner)  
-- **Dev Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
+## 🚀 About Me
+
+- 🎓 Undergraduate passionate about **Data Science & AI**
+- 📊 Love working with **data analytics, visualization, and predictive modeling**
+- 🤖 Exploring **Machine Learning, Deep Learning & Data Engineering**
+- 🌱 Continuously learning cloud technologies and scalable systems
+- 💡 Interested in solving real-world problems with technology
 
 ---
 
-## 🚀 Current Goals  
-- 📚 Master advanced machine learning concepts  
-- 🏗️ Build end-to-end data science projects (EDA → Modeling → Deployment)  
-- 🤝 Contribute to open-source projects and collaborate with other learners  
+## 🌐 Portfolio & Contact
+
+<p align="left">
+<a href="https://nafra.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href=" 	www.linkedin.com/in/fathimanafra " target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fathumanafra5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](#)  
-- 📧 [Email](#)  
+## 💻 Technical Skills
 
+### 👩‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,javascript" />
+</p>
+
+### 🌐 Web Development & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,html,css" />
+</p>
+
+### 📊 Machine Learning & Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"/>
+</p>
+
+### ⚡ Data Engineering & Big Data
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="48" height="48"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+</p>
+
+### ☁️ Cloud & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode" />
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/>
+</p>
 
 ---
 
-⭐ **Fun Fact:** I believe good data analysis is like storytelling — clear, impactful, and insightful.
+## 📌 Current Focus
 
+- 🤖 Building Machine Learning & AI projects
+- 📈 Creating interactive data dashboards
+- ⚙️ Learning scalable data engineering workflows
+- ☁️ Exploring cloud-based deployments
+- 🚀 Developing full-stack data applications
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FathimaNafra&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaNafra&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=FathimaNafra&theme=tokyonight"/>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> “Good data analysis is like storytelling — clear, impactful, and insightful.”
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
