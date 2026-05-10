@@ -66,7 +66,7 @@
 ### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="120"/>
 </p>
 
 ### ☁️ Cloud & Development Tools
