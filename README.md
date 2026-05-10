@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"/>
 </p>
