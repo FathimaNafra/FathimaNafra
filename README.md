@@ -60,7 +60,7 @@
 ### ⚡ Data Engineering & Big Data
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 ### 🗄️ Databases
