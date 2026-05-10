@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathima Nafra</h1>
-<h3 align="center">Data Science Undergraduate | ML & Data Analytics Enthusiast</h3>
+<h3 align="center">Computer Science Undergraduate (Specialization:Data Science) | ML & Data Analytics Enthusiast</h3>
 
 <p align="center">
   Passionate about transforming data into meaningful insights and building intelligent solutions through Machine Learning, Data Engineering, and Modern Web Technologies.
