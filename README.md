@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate passionate about **Data Science & AI**
+- 🎓 Undergraduate passionate about **Data Science**
 - 📊 Love working with **data analytics, visualization, and predictive modeling**
-- 🤖 Exploring **Machine Learning, Deep Learning & Data Engineering**
+- 🤖 Exploring **Machine Learning, Data Engineering & Data Analytics**
 - 🌱 Continuously learning cloud technologies and scalable systems
 - 💡 Interested in solving real-world problems with technology
 
@@ -78,11 +78,11 @@
 
 ## 📌 Current Focus
 
-- 🤖 Building Machine Learning & AI projects
+- 🤖 Building Machine Learning & Data Analytics projects
 - 📈 Creating interactive data dashboards
 - ⚙️ Learning scalable data engineering workflows
 - ☁️ Exploring cloud-based deployments
-- 🚀 Developing full-stack data applications
+
 
 ---
 
